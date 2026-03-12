@@ -8,7 +8,7 @@
 
 The series is divided into **7 chapters**, each covering a phase of the build. Each video has a hook, a core demo or reveal, and a reason to come back for the next one. Episodes within a chapter can be posted across days or weeks depending on build pace.
 
-Videos marked 🔥 are high-engagement "wow" moments — prioritise quality and editing on these.
+Videos marked 🔥 are high-engagement "wow" moments — prioritize quality and editing on these.
 
 ---
 
